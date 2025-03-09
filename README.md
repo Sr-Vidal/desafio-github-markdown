@@ -14,5 +14,11 @@
 
 ### Minhas Habilidades
 
+<img src="https://devicon-website.vercel.app/api/html5/original.svg" width="50px"></img>
+<img src="https://devicon-website.vercel.app/api/css3/original.svg" width="50px"></img>
+<img src="https://devicon-website.vercel.app/api/javascript/original.svg" width="50px"></img>
+<img src="https://devicon-website.vercel.app/api/github/original-wordmark.svg?color=%23FFF0F0" width="50px"></img>
+<img src="https://devicon-website.vercel.app/api/linux/original.svg" width="50px"></img>
+
 
 
