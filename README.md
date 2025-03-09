@@ -20,5 +20,19 @@
 <img src="https://devicon-website.vercel.app/api/github/original-wordmark.svg?color=%23FFF0F0" width="50px"></img>
 <img src="https://devicon-website.vercel.app/api/linux/original.svg" width="50px"></img>
 
+----------
+
+| Cursos | Certificados |
+| -------- | ----------|
+|Formação Logica de Programação | [Certificado](https://hermes.dio.me/certificates/JKLY61XQ.pdf)
+
+---------
+
+## GitHub Status
+
+![Mr. Vidal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sr-Vidal&show_icons=true&theme=vision-friendly-dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sr-Vidal&layout=compact)
+
 
 
