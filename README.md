@@ -14,5 +14,5 @@
 
 ### Minhas Habilidades
 
-![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg)
+
 
